@@ -24,19 +24,19 @@ I build scalable back-end services, RESTful APIs, and full-stack web application
 ### 📜 Licenses & Certifications
 
 #### **Software Engineering & Back-End Development**
-* **Meta Back-End Developer Professional Certificate** — Meta (Issued Oct 2026 | ID: `9OXAKE3NPNGA`)[cite: 7]
-  * *9-course specialization covering server-side development, Django, DRF, MySQL, APIs, and deployment.*[cite: 7]
-* **Python for Everybody Specialization** — University of Michigan (Issued May 2026 | ID: `ZGU9P9C5V6F7`)[cite: 7]
-  * *Comprehensive mastery of Python syntax, data structures, web scraping, and database management.*[cite: 7]
+* **Meta Back-End Developer Professional Certificate** — Meta (Issued Oct 2026 | ID: `9OXAKE3NPNGA`)
+  * *9-course specialization covering server-side development, Django, DRF, MySQL, APIs, and deployment.*
+* **Python for Everybody Specialization** — University of Michigan (Issued May 2026 | ID: `ZGU9P9C5V6F7`)
+  * *Comprehensive mastery of Python syntax, data structures, web scraping, and database management.*
 
 #### **Artificial Intelligence & Prompt Engineering**
-* **Google Prompting Essentials** — Google (Issued Mar 2026 | ID: `LKH1HTLLR1DN`)[cite: 8]
-  * *4-course curriculum on designing effective AI prompts, workflow automation, and structured output design.*[cite: 8]
-* **Google AI Essentials** — Google (Issued Feb 2026 | ID: `N5UK28N840FA`)[cite: 8]
-  * *5-course curriculum on AI concepts, generative AI application, and productivity tools.*[cite: 8]
+* **Google Prompting Essentials** — Google (Issued Mar 2026 | ID: `LKH1HTLLR1DN`)
+  * *4-course curriculum on designing effective AI prompts, workflow automation, and structured output design.*
+* **Google AI Essentials** — Google (Issued Feb 2026 | ID: `N5UK28N840FA`)
+  * *5-course curriculum on AI concepts, generative AI application, and productivity tools.* 
 
 #### **Professional Engineering License**
-* **Licensed Electronics Engineer (ECE)** — Philippine Professional Regulation Commission (Issued Dec 2009)[cite: 8]
+* **Licensed Electronics Engineer (ECE)** — Philippine Professional Regulation Commission (Issued Dec 2009)
 
 ---
 
