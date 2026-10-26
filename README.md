@@ -8,7 +8,7 @@ I build scalable back-end services, RESTful APIs, and full-stack web application
 
 ### 🚀 Flagship Project
 
-#### 🍋 [Little Lemon Restaurant — Full-Stack Web Application](https://littlelemon-restaurant-b435.onrender.com/)
+#### 🍋 [Little Lemon Restaurant Management System — Full-Stack Web Application](https://littlelemon-restaurant-b435.onrender.com/)
 *A full-stack restaurant booking and order management platform built with Django REST Framework and deployed live on Render.*
 * **Live Web App:** [littlelemon-restaurant-b435.onrender.com](https://littlelemon-restaurant-b435.onrender.com/)
 * **Core Tech:** Python, Django REST Framework, Djoser, Render, Insomnia
