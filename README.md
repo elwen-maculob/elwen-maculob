@@ -11,6 +11,16 @@ I build scalable back-end services, RESTful APIs, and full-stack web application
 #### 🍋 [Little Lemon Restaurant — Full-Stack Web Application](https://littlelemon-restaurant-b435.onrender.com/)
 *A full-stack restaurant booking and order management platform built with Django REST Framework and deployed live on Render.*
 
+#### ⛽ [Fuel Route Optimizer API](https://github.com/elwen-maculob/fuel-project)
+> **Stack:** Python, Django, Django REST Framework, OSRM Routing API, Nominatim Geocoding
+- Designed a high-performance REST API that calculates cross-country driving routes across the US and determines cost-effective fuel stops based on vehicle constraints (500-mile range, 10 MPG).
+- Engineered geospatial station filtering using coordinate sampling (`[::25]`) to prevent API timeouts during long-distance routing.
+- Optimized CSV dataset loading with in-memory caching and memoization to achieve sub-second response times.
+
+#### ✝️ Christian Post & Blog Platform
+> **Stack:** Python, Django, MySQL, HTML5/CSS3
+- A content-driven blogging system built to manage dynamic articles, database-backed categorizations, user engagement, and clean backend response handling.
+
 * **Live Web App:** [littlelemon-restaurant-b435.onrender.com](https://littlelemon-restaurant-b435.onrender.com/)
 * **Core Tech:** Python, Django REST Framework, Djoser, Render, Insomnia
 * **Key Architecture & Features:**
