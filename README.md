@@ -24,7 +24,7 @@ I build scalable back-end services, RESTful APIs, and full-stack web application
 - Engineered geospatial station filtering using coordinate sampling (`[::25]`) to prevent API timeouts during long-distance routing.
 - Optimized CSV dataset loading with in-memory caching and memoization to achieve sub-second response times.
 
-#### ✝️ Christian Post & Blog Platform (https://christianity-post.onrender.com/)
+#### ✝️ [Christian Post Blog Platform](https://christianity-post.onrender.com/)
 > **Stack:** Python, Django, MySQL, HTML5/CSS3
 - A content-driven blogging system built to manage dynamic articles, database-backed categorizations, user engagement, and clean backend response handling.
 
